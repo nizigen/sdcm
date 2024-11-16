@@ -83,7 +83,7 @@ conda activate sd
 Install this system by：
 
 ```bash
-
+git clone https://github.com/nizigen/sdcm.git
 ```
 
 Install Pytorch from http://pytorch.org/
