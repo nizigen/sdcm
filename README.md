@@ -5,7 +5,7 @@
 
 **Task 1: Drone-view target localization.** (Drone -> Satellite) Given one drone-view image , Return the top five most similar satellite images ranked by similarity score.
 
-**Task 2: Drone navigation.** (Satellite -> Drone) Given one satellite-view image, Return the top five most similar satellite images ranked by similarity score.
+**Task 2: Drone navigation.** (Satellite -> Drone) Given one satellite-view image, Return the top five most similar drone images ranked by similarity score.
 
 </details>
 
